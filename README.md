@@ -15,6 +15,12 @@ Currently supported dissolve shaders are:
 * Diffuse
 * Unlit
 
+
+References
+----------
+* [LeanTween](https://github.com/dentedpixel/LeanTween) is used for the alpha animation.
+
+
 License
 -------
 
