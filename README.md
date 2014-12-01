@@ -14,6 +14,7 @@ Dissolved Images
 Currently supported dissolve shaders are:
 * Diffuse
 * Unlit
+* Emissive (Pro only)
 
 
 References
