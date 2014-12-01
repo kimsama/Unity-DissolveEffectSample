@@ -1,4 +1,12 @@
-﻿Shader "Dissolve/Unlit" {
+﻿//////////////////////////////////////////////////////////////////////////
+// dissolveUnlit.shader
+//
+//  A dissovle effect for an unlit surface.
+//
+// (c) 2014 hwkim
+//////////////////////////////////////////////////////////////////////////
+
+Shader "Dissolve/Unlit" {
 	Properties {
 	    _Color ("Main Color", Color) = (1,1,1,1)
 		_MainTex ("Base (RGB)", 2D) = "white" {}
