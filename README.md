@@ -17,9 +17,14 @@ Currently supported dissolve shaders are:
 * Emissive (Pro only)
 
 
+Other Dissolve Shaders
+-----------------------
+* [HolyMonkey's DissolveShader](https://github.com/HolyMonkey/DissolveShader)
+
 References
 ----------
 * [LeanTween](https://github.com/dentedpixel/LeanTween) is used for the alpha animation.
+
 
 
 License
